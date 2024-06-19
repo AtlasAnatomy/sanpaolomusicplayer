@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sanpaolomusicplayer/static/css/main.b5dd925c.css",
-    "main.js": "/sanpaolomusicplayer/static/js/main.1b61431f.js",
+    "main.css": "/sanpaolomusicplayer/static/css/main.b25c4d7b.css",
+    "main.js": "/sanpaolomusicplayer/static/js/main.2d209c1a.js",
     "index.html": "/sanpaolomusicplayer/index.html",
-    "main.b5dd925c.css.map": "/sanpaolomusicplayer/static/css/main.b5dd925c.css.map",
-    "main.1b61431f.js.map": "/sanpaolomusicplayer/static/js/main.1b61431f.js.map"
+    "main.b25c4d7b.css.map": "/sanpaolomusicplayer/static/css/main.b25c4d7b.css.map",
+    "main.2d209c1a.js.map": "/sanpaolomusicplayer/static/js/main.2d209c1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5dd925c.css",
-    "static/js/main.1b61431f.js"
+    "static/css/main.b25c4d7b.css",
+    "static/js/main.2d209c1a.js"
   ]
 }
